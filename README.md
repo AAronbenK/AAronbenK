@@ -49,4 +49,4 @@ def main():
 ![meme](https://m.media-amazon.com/images/I/813kqvYoRfL.png)
 
 ### equation 
-$$ e = mc^2 $$
+$$ e = mc^3 $$
